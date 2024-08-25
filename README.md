@@ -2,8 +2,10 @@ I learn machine learning
 ---
 each file in the ./old/ is a new/different experiment I conducted in an attempt to learn machine learning / ds.
 to run a file
+
 1) install jupyternotebook (pipx install jupyterlab)
-2) open file in jupyterlab (jupyter lab)
+   
+3) open file in jupyterlab (jupyter lab)
 
 3a) execute file ...
 
