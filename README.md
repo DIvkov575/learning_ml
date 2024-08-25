@@ -4,7 +4,9 @@ each file in the ./old/ is a new/different experiment I conducted in an attempt 
 to run a file
 1) install jupyternotebook (pipx install jupyterlab)
 2) open file in jupyterlab (jupyter lab)
+
 3a) execute file ...
+
 3b) "jupyter nbconvert --execute --to notebook <notebook>"
 
 you can run a.py and the converted jupyternotebook (created in 3b) w/ python3 <file_name>
